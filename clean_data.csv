@@ -1,0 +1,19 @@
+id,name,age,email,join_date,salary,country,notes
+1,John Smith,32.0,john@example.com,2020-01-15,50000.0,USA,"Great employee, top performer"
+2,Jane Doe,28.0,jane@example.com,2019-01-22,45000.0,USA,
+3,Bob  Johnson,,,2019-03-10,,UK,Left company in 2021
+5,Charlie,29.0,charlie@example.com,2021-08-15,55000.0,USA,
+6,Dave,,dave@example.com,,50000.0,USA,
+7,Eve Adams,35.0,eve@example.com,2018-11-30,70000.0,UK,Promoted to manager
+8,Frank,42.0,frank@example.com,2020-05-20,48000.0,GERMANY,
+9,Grace Lee,31.0,grace@example.com,2019-12-01,51000.0,USA,On leave
+10,Henry Ford,45.0,henry@example.com,2017-09-14,90000.0,USA,"Founder, visionary"
+11,Ivy,,ivy@example.com,2022-02-14,,USA,
+12,Jack,27.0,jack@example.com,2021-06-18,45000.0,USA,
+13,Kate,29.0,kate@example.com,2020-08-08,52000.0,USA,
+14,Leo,33.0,leo@example.com,2019-04-25,58000.0,USA,"Speaks ""French, German"""
+15,Mia,,mia@example.com,2021-11-11,61000.0,USA,
+17,Oscar,,oscar@example.com,2020-03-03,49000.0,USA,
+18,Paul,41.0,paul@example.com,2016-07-07,75000.0,UK,Manager; team lead
+19,Quinn,26.0,quinn@example.com,2022-01-01,43000.0,USA,
+20,Rita,34.0,rita@example.com,2019-09-19,55000.0,USA,"Note: ""on track"""

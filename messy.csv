@@ -1,0 +1,22 @@
+  ID , Name ,AGE,Email , Join Date ,Salary ,Country,Notes
+1,John Smith,32,john@example.com,2020-01-15,50000,USA,"Great employee, top performer"
+2 , jane doe , 28 , JANE@EXAMPLE.COM ,01/22/2019, 45000 ,usa, 
+3,Bob  Johnson,,bob.johnson@example,2019-03-10,not available,UK,Left company in 2021
+ 4 ,Alice,Brown,30,alice@example.com,2021-07-01,60000,Canada,"Says ""hi"" often"
+5,Charlie,29,charlie@example.com,2021/08/15,55000, usa ,NULL
+6,Dave,   ,dave@example.com,,50000,USA,
+6,Dave,,dave@example.com,,50000,USA,
+7,Eve Adams,35,eve@example.com,2018-11-30,"70,000",UK,Promoted to manager
+8,Frank,42,frank@example.com,2020-05-20,48000,Germany,
+9,Grace Lee,  31  ,grace@example.com,2019-12-01,51000,usa,On leave
+10,Henry;Ford,45,henry@example.com,2017-09-14,90000,USA,"Founder, visionary"
+11,Ivy,,ivy@example.com,2022-02-14,,USA,
+12,Jack,27,JACK@EXAMPLE.COM,2021-06-18,45000,USA,
+13,Kate,29,kate@example.com,2020-08-08,52000,U.S.A., 
+14,Leo,33,leo@example.com,2019-04-25,58000,usa,"Speaks ""French, German"""
+15,Mia,   ,mia@example.com,2021-11-11,61000,USA,
+N/A,Nina,38,nina@example.com,2018-02-28,67000,USA,Returned from sabbatical
+17,Oscar,  ,oscar@example.com,2020-03-03,49000,USA,
+18,Paul,41,paul@example.com,2016-07-07,75000,UK,"Manager; team lead"
+19,Quinn,26,quinn@example.com,2022-01-01,43000,USA,
+20,Rita, 34 ,rita@example.com,2019-09-19,55000, usa ,"Note: ""on track"""
